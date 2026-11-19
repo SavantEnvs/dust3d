@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="2.307372" originY="0.364069" originZ="5.336310" rigType="Bird">
+ <nodes>
+  <node id="{04e33faf-96bc-4d8c-b3cf-fa09b4fe2948}" partId="{0e05387d-b510-5144-2b63-ad0f272c2070}" radius="0.065476" x="2.303570" y="0.216436" z="5.686174"/>
+  <node id="{75fe0a9f-2fa7-47d8-8f6d-8f151ceb78ee}" partId="{0e05387d-b510-5144-2b63-ad0f272c2070}" radius="0.066472" x="2.303570" y="0.222388" z="5.587965"/>
+  <node id="{9812c3f8-27e7-446f-a5d3-5e75a360eabf}" partId="{0e05387d-b510-5144-2b63-ad0f272c2070}" radius="0.089286" x="2.303570" y="0.228341" z="5.971895"/>
+  <node id="{bc75a170-04ba-4bd2-9bd7-883f2b5f23ff}" partId="{0e05387d-b510-5144-2b63-ad0f272c2070}" radius="0.065476" x="2.303570" y="0.202879" z="5.817124"/>
+  <node id="{f3cbe4a1-c1e8-4809-9982-1426504492ae}" partId="{0e05387d-b510-5144-2b63-ad0f272c2070}" radius="0.089286" x="2.303570" y="0.206681" z="5.906415"/>
+ </nodes>
+ <edges>
+  <edge boneName="TailFeathers" from="{f3cbe4a1-c1e8-4809-9982-1426504492ae}" id="{0f1a292c-99c2-4eb8-89c7-87bae4260c05}" partId="{0e05387d-b510-5144-2b63-ad0f272c2070}" to="{9812c3f8-27e7-446f-a5d3-5e75a360eabf}"/>
+  <edge boneName="Pelvis" from="{75fe0a9f-2fa7-47d8-8f6d-8f151ceb78ee}" id="{1f8dcd86-c4de-4f02-b3e1-eea062c859c5}" partId="{0e05387d-b510-5144-2b63-ad0f272c2070}" to="{04e33faf-96bc-4d8c-b3cf-fa09b4fe2948}"/>
+  <edge boneName="TailBase" from="{04e33faf-96bc-4d8c-b3cf-fa09b4fe2948}" id="{2485824a-1060-41a6-b958-4ebab5821f1a}" partId="{0e05387d-b510-5144-2b63-ad0f272c2070}" to="{bc75a170-04ba-4bd2-9bd7-883f2b5f23ff}"/>
+  <edge boneName="TailFeathers" from="{bc75a170-04ba-4bd2-9bd7-883f2b5f23ff}" id="{9bf88e98-d8aa-4646-8c1d-1c9d42558e59}" partId="{0e05387d-b510-5144-2b63-ad0f272c2070}" to="{f3cbe4a1-c1e8-4809-9982-1426504492ae}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" cutFace="Hexagon" deformThickness="0.610000" deformWidth="1.190000" disabled="false" id="{0e05387d-b510-5144-2b63-ad0f272c2070}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component color="#ffcad1d7" combineMode="Normal" expanded="false" id="{4b2d716a-3d01-fc65-a31a-b6d64616fa85}" linkData="{0e05387d-b510-5144-2b63-ad0f272c2070}" linkDataType="partId" smoothCutoffDegrees="134.210007">
+  </component>
+ </components>
+</canvas>

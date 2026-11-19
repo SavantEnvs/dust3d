@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="0.481740" originY="0.528714" originZ="1.359400" rigType="Bird">
+ <nodes>
+  <node id="{04c09a4a-bcac-4115-8c18-3224b1241ad3}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.186139" x="0.483168" y="0.530693" z="1.358420"/>
+  <node id="{145e4d7c-03da-4f5d-b3c6-18b66b2784d0}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.178218" x="0.483168" y="0.524752" z="1.465350"/>
+  <node id="{24aaa00e-e547-4db0-9024-6be6199547f7}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.122772" x="0.483168" y="0.318812" z="1.158420"/>
+  <node id="{35ac6169-6a92-48b4-9e21-c01ffcd03623}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.134653" x="0.483168" y="0.388119" z="1.188120"/>
+  <node id="{501f35de-0c6e-45cd-9199-cfdd1a43841b}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.071287" x="0.483168" y="0.384158" z="1.651490"/>
+  <node id="{59c25368-17a3-4244-9ea0-0d5134b0a974}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.079208" x="0.483168" y="0.227723" z="1.122770"/>
+  <node id="{7cc3d91b-2776-4580-a06e-4bb914c100e4}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.166337" x="0.483168" y="0.491089" z="1.271290"/>
+  <node id="{adb9d1c2-e130-4c9e-9905-b24e38438664}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.039604" x="0.483168" y="0.146535" z="1.034650"/>
+  <node id="{d0f78621-b552-4b34-a144-18dd3e3ff51d}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.055445" x="0.483168" y="0.166337" z="1.085150"/>
+  <node id="{d5a69917-f8fc-4aeb-ad16-3cda8eb694c2}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.039604" x="0.483168" y="0.299010" z="1.706930"/>
+  <node id="{d71e22b1-1423-4770-9821-b1f9ec627ea8}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" radius="0.130693" x="0.483168" y="0.447525" z="1.552480"/>
+ </nodes>
+ <edges>
+  <edge boneName="Spine" from="{7cc3d91b-2776-4580-a06e-4bb914c100e4}" id="{4267841b-6251-44e3-92c8-775023dbf6ea}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" to="{04c09a4a-bcac-4115-8c18-3224b1241ad3}"/>
+  <edge boneName="Neck" from="{d0f78621-b552-4b34-a144-18dd3e3ff51d}" id="{592b3c04-a66d-4766-a757-7639ed653300}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" to="{59c25368-17a3-4244-9ea0-0d5134b0a974}"/>
+  <edge boneName="Chest" from="{35ac6169-6a92-48b4-9e21-c01ffcd03623}" id="{5d1659ea-ce0b-4e60-8ca9-77577c8703ba}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" to="{7cc3d91b-2776-4580-a06e-4bb914c100e4}"/>
+  <edge boneName="Pelvis" from="{145e4d7c-03da-4f5d-b3c6-18b66b2784d0}" id="{66416a61-7722-475b-bb3b-f7922be8010c}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" to="{d71e22b1-1423-4770-9821-b1f9ec627ea8}"/>
+  <edge boneName="TailFeathers" from="{501f35de-0c6e-45cd-9199-cfdd1a43841b}" id="{83cc3890-0a70-4fde-be6d-8f00a0458a80}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" to="{d5a69917-f8fc-4aeb-ad16-3cda8eb694c2}"/>
+  <edge boneName="TailBase" from="{d71e22b1-1423-4770-9821-b1f9ec627ea8}" id="{ae0b9f6c-d63b-401e-a226-d2d49548c172}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" to="{501f35de-0c6e-45cd-9199-cfdd1a43841b}"/>
+  <edge boneName="Neck" from="{59c25368-17a3-4244-9ea0-0d5134b0a974}" id="{b192d143-e9f3-4ddb-b443-b793817ba326}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" to="{24aaa00e-e547-4db0-9024-6be6199547f7}"/>
+  <edge boneName="Head" from="{adb9d1c2-e130-4c9e-9905-b24e38438664}" id="{bc694d8e-298c-4486-8aa9-56791265629b}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" to="{d0f78621-b552-4b34-a144-18dd3e3ff51d}"/>
+  <edge boneName="Chest" from="{24aaa00e-e547-4db0-9024-6be6199547f7}" id="{bcf8c0b0-7e8e-49b0-8662-beb211fc4c18}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" to="{35ac6169-6a92-48b4-9e21-c01ffcd03623}"/>
+  <edge boneName="Spine" from="{04c09a4a-bcac-4115-8c18-3224b1241ad3}" id="{cb5d3e7f-452a-4a8c-831b-421c27e423d0}" partId="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" to="{145e4d7c-03da-4f5d-b3c6-18b66b2784d0}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" cutFace="Hexagon" disabled="false" id="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" locked="false" rounded="true" subdived="true" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component color="#ffb8b7bb" combineMode="Normal" expanded="false" id="{fa0c5906-ee18-9509-b2a4-26a5ee48d5ae}" linkData="{dbff2183-9f0e-2c6b-fcb4-3ec16ffcd834}" linkDataType="partId" smoothCutoffDegrees="133.899994">
+  </component>
+ </components>
+</canvas>

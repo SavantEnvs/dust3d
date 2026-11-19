@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas originX="0.326733" originY="0.473749" originZ="1.449023" rigType="Quadruped">
+ <nodes>
+  <node id="{97a1b43d-545a-4487-8662-bffa7369f30e}" partId="{d11660e2-0980-2186-d55d-87d391b2728d}" radius="0.033663" x="0.322773" y="0.208655" z="0.790169"/>
+ </nodes>
+ <edges>
+ </edges>
+ <parts>
+  <part chamfered="false" disabled="false" id="{d11660e2-0980-2186-d55d-87d391b2728d}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component color="#ff171b1e" combineMode="Uncombined" expanded="false" id="{33f2a63f-b259-026c-8da0-4b21d11314ad}" linkData="{d11660e2-0980-2186-d55d-87d391b2728d}" linkDataType="partId" smoothCutoffDegrees="129.470001">
+  </component>
+ </components>
+</canvas>

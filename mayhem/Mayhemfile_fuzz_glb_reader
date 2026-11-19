@@ -1,0 +1,11 @@
+project: savantenvs/dust3d
+target: fuzz_glb_reader
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_glb_reader/testsuite
+
+cmds:
+  - cmd: /mayhem/mayhem/build/fuzz_glb_reader
+    libfuzzer: true
+    timeout: 10

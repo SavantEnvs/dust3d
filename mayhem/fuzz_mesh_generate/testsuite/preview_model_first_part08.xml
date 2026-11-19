@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="0.481740" originY="0.528714" originZ="1.359400" rigType="Bird">
+ <nodes>
+  <node id="{5bbde130-cdd5-4197-b69f-45d60ee8e423}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.041584" x="0.489109" y="0.071287" z="1.099010"/>
+  <node id="{63dbd709-9bb2-45bc-a312-964ec800b9b6}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.041584" x="0.489109" y="0.106931" z="1.130690"/>
+  <node id="{6d1e2bd6-8eda-41a0-98f5-3c7ecf310241}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.037624" x="0.489109" y="0.083168" z="1.027720"/>
+  <node id="{7e35af7e-1002-4599-8ce5-bd5dfe5215a4}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.037624" x="0.489109" y="0.110891" z="0.984158"/>
+  <node id="{802e869e-fdad-4d5b-a446-6c81379c96c5}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.053465" x="0.489109" y="0.067327" z="1.029700"/>
+  <node id="{8e392c44-ad47-4901-9b72-21e36bbe2f39}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.045545" x="0.489109" y="0.083168" z="1.009900"/>
+  <node id="{d62a5037-4209-463f-a00d-8e47ea850ad2}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.033663" x="0.489109" y="0.069307" z="1.055450"/>
+  <node id="{e706f4c5-f31a-4269-9c06-8294fe0c30fb}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.025743" x="0.489109" y="0.097030" z="1.003960"/>
+  <node id="{e784f088-930d-49df-bedd-e3b9ea1c88c1}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.057426" x="0.489109" y="0.059406" z="1.081190"/>
+  <node id="{fd7ede95-75b2-4529-b0fa-0cd730545439}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.053465" x="0.489109" y="0.083168" z="1.116830"/>
+  <node id="{ff37a8b6-ab65-4fe8-ab41-6a8d8ede2c29}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" radius="0.021782" x="0.489109" y="0.142574" z="0.979208"/>
+ </nodes>
+ <edges>
+  <edge boneName="Head" from="{d62a5037-4209-463f-a00d-8e47ea850ad2}" id="{04d5a3f6-eb29-472a-96dc-dba0c337b6d1}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" to="{e784f088-930d-49df-bedd-e3b9ea1c88c1}"/>
+  <edge boneName="Head" from="{e706f4c5-f31a-4269-9c06-8294fe0c30fb}" id="{1f82f822-8406-4e28-b770-222135c189af}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" to="{8e392c44-ad47-4901-9b72-21e36bbe2f39}"/>
+  <edge boneName="Head" from="{6d1e2bd6-8eda-41a0-98f5-3c7ecf310241}" id="{28d62c6c-7bfa-4234-8f5a-1e3f3b5e1553}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" to="{802e869e-fdad-4d5b-a446-6c81379c96c5}"/>
+  <edge boneName="Head" from="{7e35af7e-1002-4599-8ce5-bd5dfe5215a4}" id="{37558911-78a5-4294-9a8c-5aae7d416921}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" to="{e706f4c5-f31a-4269-9c06-8294fe0c30fb}"/>
+  <edge boneName="Head" from="{5bbde130-cdd5-4197-b69f-45d60ee8e423}" id="{66760968-3433-42cc-bec3-547078b05d71}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" to="{fd7ede95-75b2-4529-b0fa-0cd730545439}"/>
+  <edge boneName="Head" from="{ff37a8b6-ab65-4fe8-ab41-6a8d8ede2c29}" id="{75f52a6b-fe1b-41eb-a0af-e472d6f57aff}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" to="{7e35af7e-1002-4599-8ce5-bd5dfe5215a4}"/>
+  <edge boneName="Head" from="{fd7ede95-75b2-4529-b0fa-0cd730545439}" id="{bc420e6f-49af-483a-b7ff-96271f305fe0}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" to="{63dbd709-9bb2-45bc-a312-964ec800b9b6}"/>
+  <edge boneName="Head" from="{802e869e-fdad-4d5b-a446-6c81379c96c5}" id="{db1127f3-32fc-42bc-8fd1-0f14c6f4cf84}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" to="{d62a5037-4209-463f-a00d-8e47ea850ad2}"/>
+  <edge boneName="Head" from="{8e392c44-ad47-4901-9b72-21e36bbe2f39}" id="{ef45448e-bb85-4c5f-a63c-1ad82041b94b}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" to="{6d1e2bd6-8eda-41a0-98f5-3c7ecf310241}"/>
+  <edge boneName="Head" from="{e784f088-930d-49df-bedd-e3b9ea1c88c1}" id="{fbc49fea-4d37-4042-bfc6-27d3017d892a}" partId="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" to="{5bbde130-cdd5-4197-b69f-45d60ee8e423}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" deformWidth="0.390000" disabled="false" id="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component color="#ffe2365e" combineMode="Uncombined" expanded="false" id="{0ce2ea4b-d1df-681d-30d8-0ef83b773f43}" linkData="{7b8bfe43-ff5b-22cf-38a7-2f6cce75478b}" linkDataType="partId" smoothCutoffDegrees="133.899994">
+  </component>
+ </components>
+</canvas>

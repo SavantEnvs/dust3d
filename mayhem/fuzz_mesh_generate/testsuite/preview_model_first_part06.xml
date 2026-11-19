@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="0.481740" originY="0.528714" originZ="1.359400" rigType="Bird">
+ <nodes>
+  <node id="{1cb4c86c-8395-4b37-bb36-11fd4e0a4261}" partId="{750e3b86-0395-2e4b-be1a-1d3a9a44a183}" radius="0.009901" x="0.435644" y="0.150495" z="1.052470"/>
+ </nodes>
+ <edges>
+ </edges>
+ <parts>
+  <part chamfered="false" disabled="false" id="{750e3b86-0395-2e4b-be1a-1d3a9a44a183}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component color="#ff1f2523" combineMode="Uncombined" expanded="false" id="{59b832e3-eaa8-bff9-37b3-96ddae72b445}" linkData="{750e3b86-0395-2e4b-be1a-1d3a9a44a183}" linkDataType="partId" smoothCutoffDegrees="133.899994">
+  </component>
+ </components>
+</canvas>

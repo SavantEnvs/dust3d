@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas originX="0.326733" originY="0.473749" originZ="1.449023" rigType="Quadruped">
+ <nodes>
+  <node id="{4cb394f0-e7c5-4095-9762-e5cfecfb0514}" partId="{b5786db8-b3b3-504f-7e7e-f5676c7e2b8e}" radius="0.023762" x="0.403961" y="0.198595" z="1.019204"/>
+  <node id="{750061ad-8669-45eb-a7b8-00fa9e4fe9f7}" partId="{b5786db8-b3b3-504f-7e7e-f5676c7e2b8e}" radius="0.035644" x="0.477228" y="0.186143" z="1.047928"/>
+ </nodes>
+ <edges>
+  <edge boneName="Head" from="{4cb394f0-e7c5-4095-9762-e5cfecfb0514}" id="{0ae13d4f-15d9-49ef-b614-ca9a8b089492}" partId="{b5786db8-b3b3-504f-7e7e-f5676c7e2b8e}" to="{750061ad-8669-45eb-a7b8-00fa9e4fe9f7}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" deformThickness="0.460000" disabled="false" id="{b5786db8-b3b3-504f-7e7e-f5676c7e2b8e}" locked="false" rounded="true" subdived="false" visible="true" xMirrored="true"/>
+ </parts>
+ <components>
+  <component color="#ffffebd5" combineMode="Normal" expanded="false" id="{9c476307-70c7-b8f5-1084-fcbf6679f765}" linkData="{b5786db8-b3b3-504f-7e7e-f5676c7e2b8e}" linkDataType="partId" smoothCutoffDegrees="129.470001">
+  </component>
+ </components>
+</canvas>

@@ -1,0 +1,11 @@
+project: savantenvs/dust3d
+target: fuzz_mesh_generate
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_mesh_generate/testsuite
+
+cmds:
+  - cmd: /mayhem/mayhem/build/fuzz_mesh_generate
+    libfuzzer: true
+    timeout: 10

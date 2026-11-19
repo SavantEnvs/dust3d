@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="0.481740" originY="0.528714" originZ="1.359400" rigType="Bird">
+ <nodes>
+  <node id="{508c26e7-146b-4eb4-b161-516bd03d799c}" partId="{72184320-83a5-062c-2190-1680e0fbca1b}" radius="0.110734" x="0.558731" y="0.573868" z="1.318810"/>
+  <node id="{64543900-9061-4636-a340-5dc17e32ae93}" partId="{72184320-83a5-062c-2190-1680e0fbca1b}" radius="0.067327" x="0.570641" y="0.684843" z="1.342570"/>
+  <node id="{b53911d7-e5ed-4d52-9304-aff0fadf1bb0}" partId="{72184320-83a5-062c-2190-1680e0fbca1b}" radius="0.019802" x="0.525023" y="0.776535" z="1.351480"/>
+  <node id="{ba8075f5-9866-4bc4-bb71-28cac518c685}" partId="{72184320-83a5-062c-2190-1680e0fbca1b}" radius="0.047525" x="0.541533" y="0.743371" z="1.342570"/>
+ </nodes>
+ <edges>
+  <edge boneName="LeftUpperLeg" from="{b53911d7-e5ed-4d52-9304-aff0fadf1bb0}" id="{76df7de6-a479-44aa-803a-a42a01011750}" partId="{72184320-83a5-062c-2190-1680e0fbca1b}" to="{ba8075f5-9866-4bc4-bb71-28cac518c685}"/>
+  <edge boneName="LeftUpperLeg" from="{64543900-9061-4636-a340-5dc17e32ae93}" id="{d7b77d4e-ccbd-4c01-a937-5acd671303af}" partId="{72184320-83a5-062c-2190-1680e0fbca1b}" to="{508c26e7-146b-4eb4-b161-516bd03d799c}"/>
+  <edge boneName="LeftUpperLeg" from="{ba8075f5-9866-4bc4-bb71-28cac518c685}" id="{fe6ee381-f4e7-4642-bff5-1230f2f8206b}" partId="{72184320-83a5-062c-2190-1680e0fbca1b}" to="{64543900-9061-4636-a340-5dc17e32ae93}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" disabled="false" id="{72184320-83a5-062c-2190-1680e0fbca1b}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="true"/>
+ </parts>
+ <components>
+  <component color="#ffb8b7bb" combineMode="Normal" expanded="true" id="{f144dae1-b4c7-0db8-f216-e47e07563679}" linkData="{72184320-83a5-062c-2190-1680e0fbca1b}" linkDataType="partId" smoothCutoffDegrees="140.250000">
+  </component>
+ </components>
+</canvas>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="0.481740" originY="0.528714" originZ="1.359400" rigType="Bird">
+ <nodes>
+  <node id="{65dd74df-22f8-401c-bc8a-25a515ac2c32}" partId="{e189cff5-2799-fe99-b7be-92fd7972c81c}" radius="0.011881" x="0.523469" y="0.818821" z="1.351228"/>
+  <node id="{6ea5c680-746d-498b-bba6-845ffb3e8d50}" partId="{e189cff5-2799-fe99-b7be-92fd7972c81c}" radius="0.015842" x="0.520746" y="0.767570" z="1.351490"/>
+  <node id="{88221e47-ee4c-4c35-aa23-e24a42a8fd19}" partId="{e189cff5-2799-fe99-b7be-92fd7972c81c}" radius="0.015842" x="0.521430" y="0.794073" z="1.350500"/>
+  <node id="{bd945b79-029b-41c9-af9a-9ad8dbfa54bc}" partId="{e189cff5-2799-fe99-b7be-92fd7972c81c}" radius="0.015842" x="0.532327" y="0.903189" z="1.360073"/>
+  <node id="{f48cc0cc-c0ab-40ad-8e9d-730dbaee7490}" partId="{e189cff5-2799-fe99-b7be-92fd7972c81c}" radius="0.011881" x="0.526954" y="0.856048" z="1.355781"/>
+ </nodes>
+ <edges>
+  <edge boneName="LeftLowerLeg" from="{f48cc0cc-c0ab-40ad-8e9d-730dbaee7490}" id="{027f46e8-7eae-47fb-ba79-5cd4dee220c7}" partId="{e189cff5-2799-fe99-b7be-92fd7972c81c}" to="{bd945b79-029b-41c9-af9a-9ad8dbfa54bc}"/>
+  <edge boneName="LeftUpperLeg" from="{6ea5c680-746d-498b-bba6-845ffb3e8d50}" id="{a8da8fc8-b205-4262-8817-d367603b1de3}" partId="{e189cff5-2799-fe99-b7be-92fd7972c81c}" to="{88221e47-ee4c-4c35-aa23-e24a42a8fd19}"/>
+  <edge boneName="LeftLowerLeg" from="{65dd74df-22f8-401c-bc8a-25a515ac2c32}" id="{d3e22de6-2263-47ae-883a-0cdc5fa8707e}" partId="{e189cff5-2799-fe99-b7be-92fd7972c81c}" to="{f48cc0cc-c0ab-40ad-8e9d-730dbaee7490}"/>
+  <edge boneName="LeftLowerLeg" from="{88221e47-ee4c-4c35-aa23-e24a42a8fd19}" id="{e812e688-fa13-44e4-9b2c-e037f223b9d9}" partId="{e189cff5-2799-fe99-b7be-92fd7972c81c}" to="{65dd74df-22f8-401c-bc8a-25a515ac2c32}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" disabled="false" id="{e189cff5-2799-fe99-b7be-92fd7972c81c}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="true"/>
+ </parts>
+ <components>
+  <component color="#ff846751" combineMode="Uncombined" expanded="false" id="{053b4515-6515-8ea5-1a60-9868bb44833f}" linkData="{e189cff5-2799-fe99-b7be-92fd7972c81c}" linkDataType="partId" smoothCutoffDegrees="133.899994">
+  </component>
+ </components>
+</canvas>

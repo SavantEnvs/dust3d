@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="2.307372" originY="0.364069" originZ="5.336310" rigType="Bird">
+ <nodes>
+  <node id="{346f4e37-34ae-493c-8409-a6358236f2ac}" partId="{940d0678-e98f-2458-91d6-caf4d290f3c2}" radius="0.017857" x="3.106647" y="0.488435" z="1.592260"/>
+  <node id="{5de24938-d2a3-491d-b35e-d2474d1f6486}" partId="{940d0678-e98f-2458-91d6-caf4d290f3c2}" radius="0.017857" x="2.988100" y="0.815476" z="1.592260"/>
+  <node id="{620e2803-1a4a-4e13-a560-198c0fcf3c2d}" partId="{940d0678-e98f-2458-91d6-caf4d290f3c2}" radius="0.017857" x="3.005950" y="0.642857" z="1.592260"/>
+  <node id="{8aa95016-2fac-4aeb-b64e-8010ea148ff6}" partId="{940d0678-e98f-2458-91d6-caf4d290f3c2}" radius="0.017857" x="2.994050" y="0.958333" z="1.592260"/>
+ </nodes>
+ <edges>
+  <edge from="{620e2803-1a4a-4e13-a560-198c0fcf3c2d}" id="{c550d163-053a-4ea1-8438-ba561e56ae38}" partId="{940d0678-e98f-2458-91d6-caf4d290f3c2}" to="{5de24938-d2a3-491d-b35e-d2474d1f6486}"/>
+  <edge from="{346f4e37-34ae-493c-8409-a6358236f2ac}" id="{d4d047ab-5bb8-478c-9a9d-9f3dc329f9c1}" partId="{940d0678-e98f-2458-91d6-caf4d290f3c2}" to="{620e2803-1a4a-4e13-a560-198c0fcf3c2d}"/>
+  <edge from="{5de24938-d2a3-491d-b35e-d2474d1f6486}" id="{d52c1f88-00a5-44dd-8148-4c8e958d7a1d}" partId="{940d0678-e98f-2458-91d6-caf4d290f3c2}" to="{8aa95016-2fac-4aeb-b64e-8010ea148ff6}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" disabled="false" id="{940d0678-e98f-2458-91d6-caf4d290f3c2}" locked="false" rounded="false" subdived="false" target="CutFace" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component combineMode="Normal" expanded="false" id="{c1578ab9-0519-2bd7-4f88-49d5917013b5}" linkData="{940d0678-e98f-2458-91d6-caf4d290f3c2}" linkDataType="partId" smoothCutoffDegrees="134.210007">
+  </component>
+ </components>
+</canvas>

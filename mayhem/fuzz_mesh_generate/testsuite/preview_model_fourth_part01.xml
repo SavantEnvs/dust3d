@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="2.307372" originY="0.364069" originZ="5.336310" rigType="Bird">
+ <nodes>
+  <node id="{4c812176-9002-46cc-a907-fe34a33807a6}" partId="{148550f0-6183-6987-4ffd-2deafb3fd741}" radius="0.005000" x="2.309520" y="0.194278" z="4.554566"/>
+  <node id="{c00ad83a-c03c-44e8-a2f6-6a2baf2dc06b}" partId="{148550f0-6183-6987-4ffd-2deafb3fd741}" radius="0.011905" x="2.309520" y="0.164516" z="4.621691"/>
+  <node id="{c338d548-5440-4a20-8fc7-d0f368dd4929}" partId="{148550f0-6183-6987-4ffd-2deafb3fd741}" radius="0.023810" x="2.309520" y="0.150960" z="4.707005"/>
+ </nodes>
+ <edges>
+  <edge boneName="Beak" from="{c00ad83a-c03c-44e8-a2f6-6a2baf2dc06b}" id="{704e3686-5b97-4f90-aca4-4d832437e0ed}" partId="{148550f0-6183-6987-4ffd-2deafb3fd741}" to="{4c812176-9002-46cc-a907-fe34a33807a6}"/>
+  <edge boneName="Beak" from="{c338d548-5440-4a20-8fc7-d0f368dd4929}" id="{e96b11f7-3e95-44d0-8069-cbdd90b9ec63}" partId="{148550f0-6183-6987-4ffd-2deafb3fd741}" to="{c00ad83a-c03c-44e8-a2f6-6a2baf2dc06b}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" cutFace="Pentagon" disabled="false" id="{148550f0-6183-6987-4ffd-2deafb3fd741}" locked="false" rounded="true" subdived="false" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component color="#ffae3e2d" combineMode="Normal" expanded="false" id="{6bf742ff-d1ad-09c7-7258-537507884662}" linkData="{148550f0-6183-6987-4ffd-2deafb3fd741}" linkDataType="partId" smoothCutoffDegrees="134.210007">
+  </component>
+ </components>
+</canvas>

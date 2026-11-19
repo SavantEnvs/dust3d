@@ -1,0 +1,11 @@
+project: savantenvs/dust3d
+target: fuzz_ds3
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_ds3/testsuite
+
+cmds:
+  - cmd: /mayhem/mayhem/build/fuzz_ds3
+    libfuzzer: true
+    timeout: 10

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas originX="0.326733" originY="0.473749" originZ="1.449023" rigType="Quadruped">
+ <nodes>
+  <node id="{28aaecdc-d9c6-0057-b31a-78020e90d236}" partId="{f303e78d-bcad-997f-8727-7edccd709d64}" radius="0.023762" x="0.326733" y="0.333250" z="1.926113"/>
+  <node id="{bee09fa8-9e52-f6b7-6446-52ead7b84864}" partId="{f303e78d-bcad-997f-8727-7edccd709d64}" radius="0.040881" x="0.326733" y="0.397641" z="1.813434"/>
+  <node id="{e9321e04-3df4-4600-b960-045f3476886d}" partId="{f303e78d-bcad-997f-8727-7edccd709d64}" radius="0.027723" x="0.326733" y="0.364038" z="1.896020"/>
+  <node id="{ff12ac65-611a-4bba-84b3-e37ec59b515c}" partId="{f303e78d-bcad-997f-8727-7edccd709d64}" radius="0.019802" x="0.326733" y="0.302576" z="1.954896"/>
+ </nodes>
+ <edges>
+  <edge boneName="TailBase" from="{bee09fa8-9e52-f6b7-6446-52ead7b84864}" id="{69228ffd-f9a6-6c43-afdb-d7b61edfa14f}" partId="{f303e78d-bcad-997f-8727-7edccd709d64}" to="{e9321e04-3df4-4600-b960-045f3476886d}"/>
+  <edge boneName="TailTip" from="{28aaecdc-d9c6-0057-b31a-78020e90d236}" id="{92c4097c-71d3-d07e-40e8-9b71d5b3009c}" partId="{f303e78d-bcad-997f-8727-7edccd709d64}" to="{ff12ac65-611a-4bba-84b3-e37ec59b515c}"/>
+  <edge boneName="TailMid" from="{e9321e04-3df4-4600-b960-045f3476886d}" id="{aff8f45b-9855-4593-aa13-25a87e18f6d3}" partId="{f303e78d-bcad-997f-8727-7edccd709d64}" to="{28aaecdc-d9c6-0057-b31a-78020e90d236}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" cutFace="Hexagon" disabled="false" id="{f303e78d-bcad-997f-8727-7edccd709d64}" locked="false" rounded="true" subdived="true" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component color="#ffffe9d3" combineMode="Normal" expanded="true" id="{20dfb88b-2386-d8d7-8bba-3a25689d6024}" linkData="{f303e78d-bcad-997f-8727-7edccd709d64}" linkDataType="partId" smoothCutoffDegrees="129.470001">
+  </component>
+ </components>
+</canvas>

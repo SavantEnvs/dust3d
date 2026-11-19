@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas originX="0.326733" originY="0.473749" originZ="1.449023" rigType="Quadruped">
+ <nodes>
+  <node id="{0a9f5f86-8e5b-4a22-b2ec-fe7859f6da73}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" radius="0.023762" x="0.231683" y="0.966348" z="1.217088"/>
+  <node id="{5943d2c8-8881-4119-b789-32ff54b7d07a}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" radius="0.035644" x="0.180198" y="0.711096" z="1.229742"/>
+  <node id="{6da1ae89-af58-4aec-ae37-f3c26a05b820}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" radius="0.035644" x="0.233663" y="0.979515" z="1.152967"/>
+  <node id="{73db141f-941d-4cf5-8680-5ebf032bf2b2}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" radius="0.063366" x="0.283168" y="0.396530" z="1.192127"/>
+  <node id="{94a5895a-53ec-4784-bbfe-a20cf8a3acc1}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" radius="0.031683" x="0.209901" y="0.877225" z="1.236307"/>
+  <node id="{bf5f6ffd-0f1f-4880-9920-649059dc9dbf}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" radius="0.027723" x="0.198020" y="0.805512" z="1.231983"/>
+  <node id="{d0ae932c-d3ff-4ecf-a8cd-1f33d65a998f}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" radius="0.079208" x="0.198020" y="0.484320" z="1.193849"/>
+  <node id="{ea457493-ff66-4393-92c7-75752fb652d9}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" radius="0.043564" x="0.182178" y="0.618229" z="1.217602"/>
+ </nodes>
+ <edges>
+  <edge boneName="FrontRightUpperLeg" from="{d0ae932c-d3ff-4ecf-a8cd-1f33d65a998f}" id="{06c98978-62f7-4da2-bafc-9b7c7b652844}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" to="{ea457493-ff66-4393-92c7-75752fb652d9}"/>
+  <edge boneName="FrontRightLowerLeg" from="{bf5f6ffd-0f1f-4880-9920-649059dc9dbf}" id="{15e113fa-8fde-4190-ab9f-362a69d227b6}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" to="{94a5895a-53ec-4784-bbfe-a20cf8a3acc1}"/>
+  <edge boneName="FrontRightLowerLeg" from="{5943d2c8-8881-4119-b789-32ff54b7d07a}" id="{182105c2-9900-46d9-a348-9bc339350261}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" to="{bf5f6ffd-0f1f-4880-9920-649059dc9dbf}"/>
+  <edge boneName="FrontRightUpperLeg" from="{73db141f-941d-4cf5-8680-5ebf032bf2b2}" id="{4d45dee0-33c5-46d9-83da-936c47d40350}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" to="{d0ae932c-d3ff-4ecf-a8cd-1f33d65a998f}"/>
+  <edge boneName="FrontRightLowerLeg" from="{ea457493-ff66-4393-92c7-75752fb652d9}" id="{4d637279-c8b9-45be-aa79-0f8b89f40f05}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" to="{5943d2c8-8881-4119-b789-32ff54b7d07a}"/>
+  <edge boneName="FrontRightFoot" from="{0a9f5f86-8e5b-4a22-b2ec-fe7859f6da73}" id="{cf178185-c9ae-496e-8154-02df129fe1c6}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" to="{6da1ae89-af58-4aec-ae37-f3c26a05b820}"/>
+  <edge boneName="FrontRightLowerLeg" from="{94a5895a-53ec-4784-bbfe-a20cf8a3acc1}" id="{e9d0f12e-479e-4f56-8dfa-8053b7bd57ca}" partId="{ec9cb449-bce3-8551-da26-659f191b1931}" to="{0a9f5f86-8e5b-4a22-b2ec-fe7859f6da73}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" deformWidth="0.610000" disabled="false" id="{ec9cb449-bce3-8551-da26-659f191b1931}" locked="false" rounded="true" subdived="true" visible="true" xMirrored="true"/>
+ </parts>
+ <components>
+  <component color="#ffffe9d3" combineMode="Normal" expanded="false" id="{27736ea0-1665-de6e-72c6-647511ae4ed5}" linkData="{ec9cb449-bce3-8551-da26-659f191b1931}" linkDataType="partId" smoothCutoffDegrees="129.470001">
+  </component>
+ </components>
+</canvas>

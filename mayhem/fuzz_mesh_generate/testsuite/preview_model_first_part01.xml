@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="0.481740" originY="0.528714" originZ="1.359400" rigType="Bird">
+ <nodes>
+  <node id="{5f37c366-1daf-4727-a16f-f204f3c587cc}" partId="{351f6f97-a0b9-11e9-c2bd-624c66d83a5f}" radius="0.033663" x="0.485149" y="0.377972" z="1.661579"/>
+  <node id="{65c79910-fa75-467f-8b9d-d0c2f5ff9aad}" partId="{351f6f97-a0b9-11e9-c2bd-624c66d83a5f}" radius="0.053465" x="0.485149" y="0.188219" z="1.755449"/>
+  <node id="{b82d8ae5-9942-4fa7-b4a7-b8410fbe15c1}" partId="{351f6f97-a0b9-11e9-c2bd-624c66d83a5f}" radius="0.021782" x="0.485149" y="0.172377" z="1.812869"/>
+  <node id="{d4311f5c-9db3-4180-89ee-62922bf95e4d}" partId="{351f6f97-a0b9-11e9-c2bd-624c66d83a5f}" radius="0.041584" x="0.485149" y="0.279151" z="1.692079"/>
+ </nodes>
+ <edges>
+  <edge boneName="TailFeathers" from="{d4311f5c-9db3-4180-89ee-62922bf95e4d}" id="{2be357e5-3c38-45fe-89bc-5bc857e15329}" partId="{351f6f97-a0b9-11e9-c2bd-624c66d83a5f}" to="{65c79910-fa75-467f-8b9d-d0c2f5ff9aad}"/>
+  <edge boneName="TailFeathers" from="{65c79910-fa75-467f-8b9d-d0c2f5ff9aad}" id="{3f15c5e3-e9ac-4937-a51f-124f6a4c6f78}" partId="{351f6f97-a0b9-11e9-c2bd-624c66d83a5f}" to="{b82d8ae5-9942-4fa7-b4a7-b8410fbe15c1}"/>
+  <edge boneName="TailBase" from="{5f37c366-1daf-4727-a16f-f204f3c587cc}" id="{4e3158f5-d7d0-4045-96aa-1f50cdef9ae8}" partId="{351f6f97-a0b9-11e9-c2bd-624c66d83a5f}" to="{d4311f5c-9db3-4180-89ee-62922bf95e4d}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" deformWidth="0.490000" disabled="false" id="{351f6f97-a0b9-11e9-c2bd-624c66d83a5f}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component combineMode="Normal" expanded="false" id="{b8f954e1-634b-01ce-bf2f-178ba7b468aa}" linkData="{351f6f97-a0b9-11e9-c2bd-624c66d83a5f}" linkDataType="partId" smoothCutoffDegrees="133.899994">
+  </component>
+ </components>
+</canvas>

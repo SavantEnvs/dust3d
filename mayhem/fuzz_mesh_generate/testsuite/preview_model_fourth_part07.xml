@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="2.307372" originY="0.364069" originZ="5.336310" rigType="Bird">
+ <nodes>
+  <node id="{0ee62bf3-03f6-43f0-92c5-baf3ade92d16}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" radius="0.148810" x="1.604087" y="0.558547" z="5.324391"/>
+  <node id="{48272b85-646f-4120-a90a-b858ad21c5db}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" radius="0.077381" x="1.502898" y="0.677595" z="5.383922"/>
+  <node id="{674753b3-0c05-4cd0-adc2-f1e30d60b722}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" radius="0.065476" x="1.383847" y="0.760928" z="5.455341"/>
+  <node id="{91ace4b4-c4d8-464b-8274-4cf8c33420f1}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" radius="0.232143" x="1.931468" y="0.284736" z="5.214272"/>
+  <node id="{a13bb852-84e2-4d4d-a002-2220edee635f}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" radius="0.232143" x="2.217177" y="0.145785" z="5.162936"/>
+  <node id="{aab6431e-43e9-451d-9df3-19193805688c}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" radius="0.232143" x="1.842680" y="0.394527" z="5.245202"/>
+ </nodes>
+ <edges>
+  <edge boneName="RightWingShoulder" from="{a13bb852-84e2-4d4d-a002-2220edee635f}" id="{0019d7d6-98f7-4ceb-be3c-3f6bb5a8ea0f}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" to="{91ace4b4-c4d8-464b-8274-4cf8c33420f1}"/>
+  <edge boneName="RightWingElbow" from="{91ace4b4-c4d8-464b-8274-4cf8c33420f1}" id="{0363401c-630c-4051-9c2f-8df974c2039a}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" to="{aab6431e-43e9-451d-9df3-19193805688c}"/>
+  <edge boneName="RightWingElbow" from="{aab6431e-43e9-451d-9df3-19193805688c}" id="{0a0e896e-1f6c-455a-b612-7e6ab1009669}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" to="{0ee62bf3-03f6-43f0-92c5-baf3ade92d16}"/>
+  <edge boneName="RightWingHand" from="{0ee62bf3-03f6-43f0-92c5-baf3ade92d16}" id="{8c16f205-c613-4f82-8188-89d0d698a060}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" to="{48272b85-646f-4120-a90a-b858ad21c5db}"/>
+  <edge boneName="RightWingHand" from="{48272b85-646f-4120-a90a-b858ad21c5db}" id="{f1801ac4-cb91-4d36-ab23-2cadeaa8541b}" partId="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" to="{674753b3-0c05-4cd0-adc2-f1e30d60b722}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" cutFace="{940d0678-e98f-2458-91d6-caf4d290f3c2}" cutRotation="-0.820000" disabled="false" id="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
+ </parts>
+ <components>
+  <component color="#ff2d3232" combineMode="Normal" expanded="false" id="{a42205ce-95e1-ffeb-8118-afe284931fd5}" linkData="{f4a2ae06-0444-4a7d-dcec-b98aa6308f36}" linkDataType="partId" smoothCutoffDegrees="134.210007">
+  </component>
+ </components>
+</canvas>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas originX="0.326733" originY="0.473749" originZ="1.449023" rigType="Quadruped">
+ <nodes>
+  <node id="{0fd2a7df-34f0-4ffc-a628-be82513542ea}" partId="{fdc279b2-828c-79b9-dbbd-4f7d9fcbabc4}" radius="0.025130" x="0.320792" y="0.280914" z="0.812880"/>
+  <node id="{350e996c-6daf-48af-a22a-339ce99f3358}" partId="{fdc279b2-828c-79b9-dbbd-4f7d9fcbabc4}" radius="0.035644" x="0.320792" y="0.263410" z="0.908597"/>
+  <node id="{922a13a4-cc43-49bc-bb2a-43dae8e73aa2}" partId="{fdc279b2-828c-79b9-dbbd-4f7d9fcbabc4}" radius="0.054238" x="0.320792" y="0.203529" z="0.990818"/>
+ </nodes>
+ <edges>
+  <edge boneName="Jaw" from="{350e996c-6daf-48af-a22a-339ce99f3358}" id="{4761f320-882b-402b-bb4f-6b5b41e93039}" partId="{fdc279b2-828c-79b9-dbbd-4f7d9fcbabc4}" to="{922a13a4-cc43-49bc-bb2a-43dae8e73aa2}"/>
+  <edge boneName="Jaw" from="{0fd2a7df-34f0-4ffc-a628-be82513542ea}" id="{6735c91e-675f-48a4-90fd-5a067d1b3ca7}" partId="{fdc279b2-828c-79b9-dbbd-4f7d9fcbabc4}" to="{350e996c-6daf-48af-a22a-339ce99f3358}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" deformThickness="0.710000" disabled="false" id="{fdc279b2-828c-79b9-dbbd-4f7d9fcbabc4}" locked="false" rounded="true" subdived="true" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component color="#ffffebd5" combineMode="Uncombined" expanded="false" id="{7f370913-9e56-0c32-8c87-f438da6c56da}" linkData="{fdc279b2-828c-79b9-dbbd-4f7d9fcbabc4}" linkDataType="partId" smoothCutoffDegrees="129.470001">
+  </component>
+ </components>
+</canvas>

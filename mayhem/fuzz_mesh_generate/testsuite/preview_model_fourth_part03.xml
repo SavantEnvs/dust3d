@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas headHasEyelids="true" originX="2.307372" originY="0.364069" originZ="5.336310" rigType="Bird">
+ <nodes>
+  <node id="{12fe08c7-dc4a-441d-8469-f920f21df396}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" radius="0.126154" x="2.309520" y="0.125000" z="4.916670"/>
+  <node id="{630b3a87-cec8-44db-8290-39b01ab8157b}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" radius="0.102345" x="2.309520" y="0.220238" z="5.577380"/>
+  <node id="{89a14fc1-09ad-4bb7-84e8-036abd58df95}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" radius="0.149963" x="2.309520" y="0.148810" z="5.065480"/>
+  <node id="{9462a980-2ffc-4074-95e9-4c64a5b8028b}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" radius="0.161868" x="2.309520" y="0.168817" z="5.208330"/>
+  <node id="{98d97616-d10b-4d51-afc6-0d31a6ddafe5}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" radius="0.102345" x="2.309520" y="0.107143" z="4.830360"/>
+  <node id="{dd71f3d9-3f0f-437e-9315-ebc44507361a}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" radius="0.161868" x="2.309520" y="0.214286" z="5.363100"/>
+  <node id="{efe67e0c-5f30-483f-9d4b-eef34661252b}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" radius="0.126154" x="2.309520" y="0.214286" z="5.505950"/>
+ </nodes>
+ <edges>
+  <edge boneName="Spine" from="{dd71f3d9-3f0f-437e-9315-ebc44507361a}" id="{3cbf6955-b327-4bff-b936-795ccdf01b7b}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" to="{efe67e0c-5f30-483f-9d4b-eef34661252b}"/>
+  <edge boneName="Neck" from="{98d97616-d10b-4d51-afc6-0d31a6ddafe5}" id="{68957cfa-0506-421b-9f93-181206ad3cf9}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" to="{12fe08c7-dc4a-441d-8469-f920f21df396}"/>
+  <edge boneName="Chest" from="{89a14fc1-09ad-4bb7-84e8-036abd58df95}" id="{81085e97-8c94-4588-854e-80449a013c3b}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" to="{9462a980-2ffc-4074-95e9-4c64a5b8028b}"/>
+  <edge boneName="Pelvis" from="{efe67e0c-5f30-483f-9d4b-eef34661252b}" id="{9b5e12ab-198b-454e-b56c-ae1052f40032}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" to="{630b3a87-cec8-44db-8290-39b01ab8157b}"/>
+  <edge boneName="Chest" from="{9462a980-2ffc-4074-95e9-4c64a5b8028b}" id="{a58e5d94-6e05-4339-8d38-1539e386c11d}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" to="{dd71f3d9-3f0f-437e-9315-ebc44507361a}"/>
+  <edge boneName="Neck" from="{12fe08c7-dc4a-441d-8469-f920f21df396}" id="{a5c31245-eea8-4ae9-8b0e-195984e23c29}" partId="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" to="{89a14fc1-09ad-4bb7-84e8-036abd58df95}"/>
+ </edges>
+ <parts>
+  <part chamfered="false" cutFace="Pentagon" disabled="false" id="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" locked="false" rounded="true" subdived="true" visible="true" xMirrored="false"/>
+ </parts>
+ <components>
+  <component color="#ffcad1d7" combineMode="Normal" expanded="false" id="{dac5d2c6-ee7a-f4a2-a9ad-d5acf4625dec}" linkData="{6df0c594-30ab-81a2-3a2a-f2a8d86c46ef}" linkDataType="partId" smoothCutoffDegrees="134.210007">
+  </component>
+ </components>
+</canvas>

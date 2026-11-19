@@ -1,0 +1,38 @@
+== model application/resources/preview_model_first.xml
+snapshot nodes=60 edges=47 parts=13 components=13 canvas=5
+mesh vertices=699 triangles=1342
+bbox -0.19 -0.40 -0.46 0.19 0.53 0.41
+== model application/resources/preview_model_second.xml
+snapshot nodes=40 edges=32 parts=8 components=8 canvas=4
+mesh vertices=683 triangles=1346
+bbox -0.26 -0.54 -0.52 0.26 0.36 0.69
+== model application/resources/preview_model_third.xml
+snapshot nodes=88 edges=69 parts=20 components=20 canvas=5
+mesh vertices=1208 triangles=2388
+bbox -0.40 -0.55 -0.24 0.40 0.41 0.33
+== model application/resources/preview_model_fourth.xml
+snapshot nodes=36 edges=28 parts=8 components=8 canvas=5
+mesh vertices=412 triangles=812
+bbox -0.96 -0.40 -0.65 0.96 0.35 0.79
+== xmlrt application/resources/preview_model_first.xml
+before nodes=60 edges=47 parts=13 components=13 canvas=5
+after nodes=60 edges=47 parts=13 components=13 canvas=5
+== xmlrt application/resources/preview_model_second.xml
+before nodes=40 edges=32 parts=8 components=8 canvas=4
+after nodes=40 edges=32 parts=8 components=8 canvas=4
+== xmlrt application/resources/preview_model_third.xml
+before nodes=88 edges=69 parts=20 components=20 canvas=5
+after nodes=88 edges=69 parts=20 components=20 canvas=5
+== xmlrt application/resources/preview_model_fourth.xml
+before nodes=36 edges=28 parts=8 components=8 canvas=5
+after nodes=36 edges=28 parts=8 components=8 canvas=5
+== ds3 application/resources/preview_model_fourth.xml
+ds3 items=2
+item model model.xml size=16239 fnv=5d1fe6b4
+item asset canvas.png size=1000 fnv=180bf895
+source fnv=5d1fe6b4 asset fnv=180bf895
+== ds3 application/resources/rig_biped.xml
+ds3 items=2
+item model model.xml size=5818 fnv=a7a29c86
+item asset canvas.png size=1000 fnv=180bf895
+source fnv=a7a29c86 asset fnv=180bf895
